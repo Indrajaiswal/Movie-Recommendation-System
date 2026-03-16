@@ -50,4 +50,6 @@ Movie metadata including genre, ratings, and features.
 
 
 ## 📸 Screenshots
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.png/1.png)
+![Dashboard Screenshot](dashboard.png/2.png)
+![Dashboard Screenshot](dashboard.png/3.png)
