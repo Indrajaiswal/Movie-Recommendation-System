@@ -4,6 +4,8 @@ A Movie Recommendation System built using Python, KNN Algorithm, and Streamlit t
 
 This project uses the IMDB 5000 Movie Dataset and integrates TMDb API to fetch movie posters, ratings, release dates, and overview.
 
+## 🔗 Live Demo:
+https://movie-recommendation-system-nwdrrhmw6sra2gxb9jjocd.streamlit.app/
 
 ## 🚀 Features
 
